@@ -1,18 +1,17 @@
 <br/>
-<p>
+<p align="center">
   <a href="https://github.com/lucassamuel94/codelandia-desafios">
     <img src=".github/picture.jpg" alt="Logo">
   </a>
 
-  <h1>Codelândia Desafios</h1>
+  <h3 align="center">Codelândia Desafios</h3>
 
-  <p>
-    Repositório para centralizar todas as resoluções de desafios proposto na comunidade de Discord Codêlandia do Iuri Silva.
-
-Cada projeto terá o link para acesso ao deploy da aplicação, figma com design e detalhes de criação do projeto
+  <p align="center">
+    Repositório para centralizar todas as resoluções de desafios proposto na comunidade de Discord Codêlandia do Iuri Silva. Cada projeto terá o link para acesso ao deploy da aplicação, figma com design e detalhes de criação do projeto
 <br/>
 <br/>
-
+<a href="#indíce-de-projetos"><strong> Explorar os desafios »</strong></a><br/>
+<br/>
 
   </p>
 </p>
@@ -21,7 +20,14 @@ Cada projeto terá o link para acesso ao deploy da aplicação, figma com design
 
 Todos os projetos serão construídos utilizando o ReactJS framework Next13, Vite (build tool) e ferramentas Tailwind CSS, React Hook Forms, ZOD, Zustand e muito mais.
 
-## Projetos
+## Indíce de Projetos
+
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+
 
 ## Autor
 
