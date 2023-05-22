@@ -21,6 +21,8 @@
 Todos os projetos serão construídos utilizando o ReactJS framework Next13, Vite (build tool) e ferramentas Tailwind CSS, React Hook Forms, ZOD, Zustand e muito mais.
 
 ## Indíce de Projetos
+- **[Search Text](https://github.com/lucassamuel94/serchtext-codelandia)**
+- **[Jordan Shoes](https://github.com/lucassamuel94/jordanshoes-codelandia)**
 
 
 ## :memo: Licença
