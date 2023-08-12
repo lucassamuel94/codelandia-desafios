@@ -21,9 +21,12 @@
 Todos os projetos serão construídos utilizando o ReactJS framework Next13, Vite (build tool) e ferramentas Tailwind CSS, React Hook Forms, ZOD, Zustand e muito mais.
 
 ## Indíce de Projetos
-- **[Search Text](https://github.com/lucassamuel94/serchtext-codelandia)**
-- **[Jordan Shoes](https://github.com/lucassamuel94/jordanshoes-codelandia)**
-- **[Login](https://github.com/lucassamuel94/login-codelandia)**
+
+| Desafio | Nome | Stack |
+|---------|------|-------|
+| 01 | [Search Text](https://github.com/lucassamuel94/serchtext-codelandia) | Vite, React JS |
+| 02 | [Jordan Shoes](https://github.com/lucassamuel94/jordanshoes-codelandia) | Vite, React JS |
+| 04 | [Login](https://github.com/lucassamuel94/login-codelandia) | NextJS e Firebase |
 
 
 ## :memo: Licença
