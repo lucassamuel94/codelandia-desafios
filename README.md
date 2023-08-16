@@ -28,6 +28,7 @@ Todos os projetos serão construídos utilizando o ReactJS framework Next13, Vit
 | 02 | [Jordan Shoes](https://github.com/lucassamuel94/jordanshoes-codelandia) | Vite, React JS |
 | 03 | [One Page](https://github.com/lucassamuel94/desafio-03-one-page-codelandia) | HTML, CSS e JS |
 | 04 | [Login](https://github.com/lucassamuel94/login-codelandia) | NextJS e Firebase |
+| 05 | [Studio Ghibli](https://github.com/lucassamuel94/desafio-05-studio-ghibli-codelandia) | Vite, React JS |
 
 
 ## :memo: Licença
