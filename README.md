@@ -29,7 +29,8 @@ Todos os projetos serão construídos utilizando o ReactJS framework Next13, Vit
 | 03 | [One Page](https://github.com/lucassamuel94/desafio-03-one-page-codelandia) | HTML, CSS e JS |
 | 04 | [Login](https://github.com/lucassamuel94/login-codelandia) | NextJS e Firebase |
 | 05 | [Studio Ghibli](https://github.com/lucassamuel94/desafio-05-studio-ghibli-codelandia) | Vite, React JS |
-| 05 | [Loki](https://github.com/lucassamuel94/desafio-06-loki-codelandia) | Vite, React JS |
+| 06 | [Loki](https://github.com/lucassamuel94/desafio-06-loki-codelandia) | Vite, React JS |
+| 07 | [Loki](https://github.com/lucassamuel94/desafio-07-valorant-codelandia) | Vite, React JS |
 
 
 ## :memo: Licença
