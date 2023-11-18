@@ -32,7 +32,7 @@ Todos os projetos serão construídos utilizando o ReactJS framework Next13, Vit
 | 06 | [Loki](https://github.com/lucassamuel94/desafio-06-loki-codelandia) | Vite, React JS |
 | 07 | [Valorant](https://github.com/lucassamuel94/desafio-07-valorant-codelandia) | Vite, React JS |
 | 08 | [CodeMoji](https://github.com/lucassamuel94/desafio-08-codemoji-codelandia) | Vite, React JS |
-
+| 09 | [Portfólio](https://github.com/lucassamuel94/desafio-09-portfolio-codelandia) | Vite, React JS |
 
 ## :memo: Licença
 
